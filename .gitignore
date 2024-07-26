@@ -1,0 +1,79 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Spring Boot specific
+*.class
+*.jar
+*.war
+*.zip
+target/
+
+# Maven
+mvnw
+mvnw.cmd
+/.mvn/
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+*.iws
+*.iml
+*.ipr
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Files created by Eclipse
+.project
+.classpath
+.settings/
+
+# Files created by NetBeans
+nbproject/private/
+build/
+
+# JRebel
+.jrebel/
+
+# Spring Boot
+spring-boot-devtools.properties
+spring-boot-devtools.jar
